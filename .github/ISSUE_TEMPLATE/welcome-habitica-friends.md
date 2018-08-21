@@ -1,8 +1,3 @@
----
-name: Welcome habitica friends
-about: Welcome to our awesome server
-
----
 
 Welcome to our awesome Habitica Discord!  :sparkles:
 
@@ -15,3 +10,8 @@ So lets make our progress together and slay some spiders along the way!
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Partylogo](https://i.imgur.com/XpQalTl.png)
+
+
+
+
+
